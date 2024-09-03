@@ -50,7 +50,7 @@
 
 <p align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leonardo-PA&show_icons=true&theme=neon&include_all_commits-true&count_&hide_title=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-PA&theme=neon&layout=compact)](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leonardo-PA&show_icons=true&theme=neon&count_&hide_title=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-PA&theme=neon&layout=compact)](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)
 
 </p>
 
