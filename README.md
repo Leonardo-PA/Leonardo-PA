@@ -1,17 +1,18 @@
-# <p align="center"> Leonardo Pereira de Andrade </p><p align="center"> Desenvolvedor e Futuro Engenheiro de Software </p> 
-<p align="center"> Olá... Bem vindo a minha pagina </p>
+<p align = center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=7400D7&center=true&width=435&lines=Leonardo+Pereira+de+Andrade" alt="Typing SVG" /></a>
+</p>
 
-<p align="center">Estou cursando engenharia de software e nesse caminho estou sempre em busca de novos desafio e oportunidades</p>
-
-##
-
-<p align="center"> Developer and Future Software Engineer</p> 
-<p align="center"> Hello... Welcome to my page </p>
-
-<p align="center">I'm studying software engineering and on this path I'm always looking for new challenges and opportunities</p>
+<p align = center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7400D7&background=FFFFFF00&width=435&lines=Ol%C3%A1...+Bem+vindo+a+minha+pagina;Dev+e+Engenheiro+de+Software...;Sempre+aprendendo+e+evoluindo" alt="Typing SVG" /></a>
+</p>
 
 ##
-### <p align="center"><b>SKILLS</b>
+<p align = center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7400D7&background=FFFFFF00&width=435&lines=Hello...+Welcome+to+my+page;Dev+and+Software+Engineer+in+training...;Always+learning+and+evolving!.." alt="Typing SVG" /></a>
+</p>
+
+##
+### <p align=""><b>SKILLS</b>
 
 <p>Aqui estão algumas das minhas HardSkills que adquiri com o decorrer da minha jornada.</P>
 
@@ -50,17 +51,17 @@
 
 <p align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leonardo-PA&show_icons=true&theme=neon&count_&hide_title=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-PA&theme=neon&layout=compact)](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leonardo-PA&show_icons=true&theme=midnight-purple&count_&hide_title=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-PA&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)
 
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Leonardo-PA&theme=neon&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Leonardo-PA&theme=midnight-purple&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 ## <b><p align="center"> 🔥 Minhas contribuições</p></b>
 
 <p>Contribuições relevantes com projetos</p> 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-PA&repo=dio-lab-open-source&theme=neon)](https://github.com/Leonardo-PA/dio-lab-open-source)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-PA&repo=dio-lab-open-source&theme=midnight-purple)](https://github.com/Leonardo-PA/dio-lab-open-source)
 
 ## <b><p align="center"> Conecte-se comigo:</p></b>
 
