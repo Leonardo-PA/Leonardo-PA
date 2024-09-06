@@ -77,6 +77,7 @@
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   </details>
+  
   </details>
 
   <details> 
@@ -86,11 +87,10 @@
 
 <p align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Leonardo-PA&theme=midnight-purple&background=000&dates=FFF)](https://git.io/streak-stats) 
-
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leonardo-PA&show_icons=true&theme=midnight-purple&count_&hide_title=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-PA&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Leonardo-PA&theme=midnight-purple&background=000&dates=FFF)](https://git.io/streak-stats) 
 </p>
 </details>
 
