@@ -87,7 +87,6 @@
 
 <p align="center">
   
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leonardo-PA&show_icons=true&theme=midnight-purple&count_&hide_title=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-PA&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Leonardo-PA&theme=midnight-purple&background=000&dates=FFF)](https://git.io/streak-stats) 
@@ -102,7 +101,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-PA&repo=dio-lab-open-source&theme=midnight-purple)](https://github.com/Leonardo-PA/dio-lab-open-source)
   </details>
  
-  <details> 
+  <details open> 
     <summary><h2><b><p align="center"> Conecte-se comigo:</p></b></h2></summary>
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:=leopdeandrade@gmail.com) 
