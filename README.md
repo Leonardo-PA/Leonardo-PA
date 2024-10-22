@@ -87,7 +87,7 @@
 
 <p align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leonardo-PA&show_icons=true&theme=midnight-purple&count_&hide_title=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-PA&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leonardo-PA&show_icons=true&theme=midnight-purple&count_&hide_title=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-PA&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-PA&theme=midnight-purple&layout=compact)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Leonardo-PA&theme=midnight-purple&background=000&dates=FFF)](https://git.io/streak-stats) 
 </p>
