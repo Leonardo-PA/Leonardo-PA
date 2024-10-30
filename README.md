@@ -1,14 +1,14 @@
 <p align = center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=7400D7&center=true&width=435&lines=Leonardo+Pereira+de+Andrade" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=00F733FF&center=true&width=435&lines=Leonardo+Pereira+de+Andrade" alt="Typing SVG" /></a>
 </p>
 
 <p align = center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7400D7&background=FFFFFF00&width=435&lines=Ol%C3%A1...+Bem+vindo+a+minha+pagina;Dev+e+Engenheiro+de+Software...;Sempre+aprendendo+e+evoluindo" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F733FF&background=FFFFFF00&width=435&lines=Ol%C3%A1...+Bem+vindo+a+minha+pagina;Dev+e+Engenheiro+de+Software...;Sempre+aprendendo+e+evoluindo" alt="Typing SVG" /></a>
 </p>
 
 ##
 <p align = center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7400D7&background=FFFFFF00&width=435&lines=Hello...+Welcome+to+my+page;Dev+and+Software+Engineer...;Always+learning+and+evolving!.." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F733FF&background=FFFFFF00&width=435&lines=Hello...+Welcome+to+my+page;Dev+and+Software+Engineer...;Always+learning+and+evolving!.." alt="Typing SVG" /></a>
 </p>
 
 ##
