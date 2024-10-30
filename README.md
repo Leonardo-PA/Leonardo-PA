@@ -21,15 +21,15 @@
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">   
     
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-PA&theme=midnight-purple&repo=Sintaxe-e-tipos-de-dado-em-C--)](https://github.com/Leonardo-PA/Sintaxe-e-tipos-de-dado-em-C--)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-PA&theme=midnight-purple&repo=Operadores-Aritmeticos-em-C-)](https://github.com/Leonardo-PA/Operadores-Aritmeticos-em-C-)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-PA&theme=midnight-purple&repo=Tipos-de-Operadores-em-C-)](https://github.com/Leonardo-PA/-Tipos-de-Operadores-em-C-)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-PA&theme=midnight-purple&repo=Conhecendo-as-estruturas-de-repeti-o-em-C-)](https://github.com/Leonardo-PA/Conhecendo-as-estruturas-de-repeti-o-em-C-)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-PA&theme=blue-green&repo=Sintaxe-e-tipos-de-dado-em-C--)](https://github.com/Leonardo-PA/Sintaxe-e-tipos-de-dado-em-C--)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-PA&theme=blue-green&repo=Operadores-Aritmeticos-em-C-)](https://github.com/Leonardo-PA/Operadores-Aritmeticos-em-C-)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-PA&theme=blue-green&repo=Tipos-de-Operadores-em-C-)](https://github.com/Leonardo-PA/-Tipos-de-Operadores-em-C-)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-PA&theme=blue-green&repo=Conhecendo-as-estruturas-de-repeti-o-em-C-)](https://github.com/Leonardo-PA/Conhecendo-as-estruturas-de-repeti-o-em-C-)
 
   <a href="https://github.com/Leonardo-PA?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
-  <details > 
+  <details open> 
   <summary><h2>📕 SKILLS</h2></summary>
     
 <p>Aqui estão algumas das minhas HardSkills que adquiri com o decorrer da minha jornada.</P>
