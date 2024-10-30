@@ -80,7 +80,7 @@
   
   </details>
 
-  <details> 
+  <details open> 
   <summary><h2>📊 Github Status</h2></summary>
 
 <p> 🔥 Rank de desenvolvimento de projetos.</p>
