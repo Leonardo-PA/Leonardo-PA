@@ -98,7 +98,7 @@
 
 <p>Contribuições relevantes com projetos</p> 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-PA&repo=dio-lab-open-source&theme=midnight-purple)](https://github.com/Leonardo-PA/dio-lab-open-source)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Leonardo-PA&repo=dio-lab-open-source&theme=blue-green)](https://github.com/Leonardo-PA/dio-lab-open-source)
   </details>
  
   <details open> 
