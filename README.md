@@ -3,12 +3,12 @@
 </p>
 
 <p align = center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F733FF&background=FFFFFF00&width=435&lines=Ol%C3%A1...+Bem+vindo+a+minha+pagina;Dev+e+Engenheiro+de+Software...;Sempre+aprendendo+e+evoluindo" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F733FF&background=FFFFFF00&width=435&lines=Ol%C3%A1...+Bem+vindo+a+minha+pagina;Fullstack+Engenheiro+de+Software...;Sempre+aprendendo+e+evoluindo" alt="Typing SVG" /></a>
 </p>
 
 ##
 <p align = center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F733FF&background=FFFFFF00&width=435&lines=Hello...+Welcome+to+my+page;Dev+and+Software+Engineer...;Always+learning+and+evolving!.." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F733FF&background=FFFFFF00&width=435&lines=Hello...+Welcome+to+my+page;Fullstack+and+Software+Engineer...;Always+learning+and+evolving!.." alt="Typing SVG" /></a>
 </p>
 
 ##
@@ -34,6 +34,12 @@
     
 <p>Aqui estão algumas das minhas HardSkills que adquiri com o decorrer da minha jornada.</P>
 
+ <details open> 
+    <summary><h2>📚 <b><i> Frameworks and Libraries</i></b></h2></summary>
+
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  </details>
+  
   <details open> 
     <summary><h2>✏️ <b><i>Markup languages: </i></b></h2></summary>
   
@@ -46,12 +52,6 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-  </details>
-
- <details open> 
-    <summary><h2>📚 <b><i> Frameworks and Libraries</i></b></h2></summary>
-
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   </details>
 
   <details open> 
